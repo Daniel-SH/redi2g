@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://gemu-group.com/en/:path*",
+      "destination": "https://www.gemu-group.com/en/:path*",
       "permanent": false
     }
   ]
