@@ -1,8 +1,9 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://www.gemu-group.com/en/:path*",
+      "destination": "https://www.gemu-group.com/en/",
       "permanent": false
     }
   ]
